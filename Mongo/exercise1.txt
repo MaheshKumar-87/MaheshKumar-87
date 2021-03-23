@@ -1,0 +1,2 @@
+>use mydb
+switched to db mydb
